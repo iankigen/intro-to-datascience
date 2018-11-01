@@ -1,0 +1,9 @@
+certifi==2018.10.15
+chardet==3.0.4
+idna==2.7
+lightfm==1.15
+numpy==1.15.3
+requests==2.20.0
+scikit-learn==0.20.0
+scipy==1.1.0
+urllib3==1.24
